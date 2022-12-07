@@ -12,6 +12,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+streamlit run london_hotels.py
 
 st.title("Rest Easy! Find your London Hotel")
 st.markdown("You're a few questions away from finding a place to stay")
